@@ -21,3 +21,15 @@
 8. [GFM-RAG](https://rmanluo.github.io/gfm-rag/latest/)
 9. [PyTorch Tabular](https://pytorch-tabular.readthedocs.io/en/latest/)
 10. [Mamba4Cast](https://github.com/automl/Mamba4Cast)
+
+
+---
+## Kumo - Forecasting
+- Use cases for using Kumo relational foundation models.
+  - [NVIDIA-KUMO Demand Forecasting Solution](https://docs.nvidia.com/sdgm/examples/bizops-demand-forecast)
+  - [Forecasting 21‑Day SKU Demand with KumoRFM](https://medium.com/@nasdag/forecasting-21-day-sku-demand-with-kumorfm-ef504bdcae37)
+ 
+---
+## TabPFN
+- Use cases for using TabPFN
+  - [TabPFN - Databricks Use cases](https://github.com/databricks-industry-solutions/tabpfn-databricks)
