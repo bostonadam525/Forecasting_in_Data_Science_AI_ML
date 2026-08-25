@@ -15,3 +15,7 @@
   - [VectorLab - Time Series Forecasting with AI Agents on Databricks](https://www.youtube.com/watch?v=yRRSzd9LxM0&t=24s)
   - [Building AI Agents for Supply Chain Optimization on Databricks](https://www.youtube.com/watch?v=cz-x2B31Ga8&t=497s)
   - [Supply Chain Copilot Assistants on Databricks](https://www.youtube.com/watch?v=g_8EVNZDkzY)
+
+- TabPFN - Databricks Use Cases
+  - [Repo](https://github.com/databricks-industry-solutions/tabpfn-databricks)
+  - [TabPFN AI Accelerates Business Transformation on Databricks](https://www.databricks.com/blog/tappfn-ai-accelerates-business-transformation-databricks)
