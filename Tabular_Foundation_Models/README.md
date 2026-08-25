@@ -1,7 +1,7 @@
 # Tabular Foundation Models for Forecasting
 
 ---
-# Tabular Machine Learning and Deep Learning
+## Tabular Machine Learning and Deep Learning
 - A repo dedicated to tabular ML and deep learning.
 
 
