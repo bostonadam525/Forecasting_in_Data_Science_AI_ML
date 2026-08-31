@@ -19,3 +19,7 @@
 - TabPFN - Databricks Use Cases
   - [Repo](https://github.com/databricks-industry-solutions/tabpfn-databricks)
   - [TabPFN AI Accelerates Business Transformation on Databricks](https://www.databricks.com/blog/tappfn-ai-accelerates-business-transformation-databricks)
+
+- [Databricks Intelligence Platform for HLS: Patient Readmission](https://www.databricks.com/resources/demos/tutorials/lakehouse-platform/dbdemos-hls-patient-readmission-health)
+  - [Readmission prediction notebook starter for databricks](https://notebooks.databricks.com/demos/lakehouse-hls-readmission/index.html?itm_source=www&itm_category=resources&itm_page=dbdemos-hls-patient-readmission-health&itm_location=body&itm_component=wrapper&itm_offer=index.html#)
+  - [Healthcare and Life Sciences Data + AI Virtual Workshop](https://www.databricks.com/resources/webinar/hls_workshop)
