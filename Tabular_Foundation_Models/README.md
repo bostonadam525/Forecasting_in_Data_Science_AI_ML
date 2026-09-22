@@ -6,8 +6,10 @@
 
 
 ---
-# TabArena Leaderboard
+# Tabular Foundation Model Leaderboards/Benchmarks
 1. [Hugging Face - TabArena Leaderboard](https://huggingface.co/spaces/TabArena/leaderboard)
+2. [AutoGluon -TabArena](https://github.com/autogluon/tabarena)
+3. [ScoringBench](https://scoringbench.com/)
 
 ---
 # Tabular Deep Learning Models
@@ -19,6 +21,13 @@
 6. [AWS - Mitra-v2](https://arxiv.org/html/2609.04540v1)
 7. [PyTorch Tabular](https://pytorch-tabular.readthedocs.io/en/latest/)
 8. [Mamba4Cast](https://github.com/automl/Mamba4Cast)
+9. [LimiX-2](https://www.limix.ai/)
+10. [nums-ai/causilo](https://huggingface.co/nums-ai/causilo)
+11. [NanoTabICL](https://github.com/soda-inria/nanotabicl)
+12. [nanoTabPFN](https://github.com/automl/nanoTabPFN)
+13. [LG-AI-RESEARCH](https://huggingface.co/LG-AI-Research)
+    - [LG-AI-Research/EXAONE-Forecast-for-Finance-1.0](https://huggingface.co/LG-AI-Research/EXAONE-Forecast-for-Finance-1.0)
+    - [LG-AI-Research/EXAONE-Tabular](https://huggingface.co/LG-AI-Research/EXAONE-Tabular)
 
 
 ---
