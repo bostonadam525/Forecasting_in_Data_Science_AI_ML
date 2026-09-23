@@ -54,3 +54,76 @@
 - **Novelty and seasonality:** A first-month lift often fades.
 - **Cannibalization and displacement:** Did it create value, or just move volume from one channel to another?
 - **ROI and payback:** Payback in months = upfront cost ÷ monthly net benefit. Include run costs, such as LLM inference, vendor fees, and QA headcount.
+
+---
+# What are Product Sense Problems?
+- Ability to **define metrics**
+- **Diagnose and solve** real world product problems.
+
+## Important Components
+1. Structure -- process
+2. Comprehensive
+3. Feasability
+
+---
+## 1. Diagnose a Problem -- Framework 
+- This is Emma Ding's framework [source](https://www.youtube.com/watch?v=nPJKFWMiIC8)
+
+1. **Clarify scenario/metric**
+   - example: Estimate time of arrival
+     - How are start time and end time defined?
+     - Is the start time at request or at pickup?
+2. **Time -- sudden or stable?**
+   - Internal --> Data source? Data collection? Bug in system? Data provenance?
+   - External --> Seasonality? Industry Trends? Competitor interference or influence? Special Events? User vs. environment vs. product?
+3. **Other product/feature by the same company have the same change(s)?**
+   - Have we made any changes to our products recently?
+   - Have other related products experienced the same changes?
+   - Is this a local vs. global problem to our system/product line?
+4. **Segment by user demographic and behavioral features**
+   - Geographic regions
+   - Languages
+   - Technical platforms (e.g. mobile vs. web vs. on-prem)
+5. **Decompose the metric (optional)**
+   - example: Daily Active User (DAU) = Existing users + New users + Resurrected users - Churned users
+   - goal: examine which user group may be the root cause of the change
+6. **Summarize overall approach**
+   - What are the most reasonable causes?
+   - How do we approach fixing this?
+
+---
+## 2. Measuring Success -- How?
+- a) **Clarify functions and goals of the products/features**
+  - What does it do? (function)
+  - How is it used? (how)
+  - Who uses it? (who)
+  - How often do they use it? 
+
+- b) **Define metrics -- no more than 3**
+  - 2 **SUCCESS metrics** to measure the product/feature success such as:
+    - **daily active users, number of bookings, conversion rate, click through rate**
+  - 1 **Guardrail metric** -- new or existing product should not degrade during process of implementation such as:
+    - **cancelation rate, bounce rate**
+  - Good metrics need to fit the domain and context.
+  - A "north star" metric may not be possible as 1 metric may not encompass the entire product/feature success. 
+
+- c) **Launch or Not**
+  - Metrics that decide threshold to launch or not?
+    - **example: is a 0.01% lift significant enough to translate to revenue or valid improvements in the system?**
+    - **example: if there is a 50% lift reported, what is the metric/eval system behind this and is it actually significant when scaled?**
+  - Experimentation (e.g. A/B testing) --> how design? how split users? how much data? how long?
+  - Recommendation --> short-term vs. long-term, goal and business impact, ethics and safety
+
+
+
+---
+# Resources/References
+- [Emma Ding - Crack Metric/Business Case/Product Sense Problems for Data Scientists | Data Science Interviews](https://www.youtube.com/watch?v=nPJKFWMiIC8)
+
+
+
+
+
+
+
+
